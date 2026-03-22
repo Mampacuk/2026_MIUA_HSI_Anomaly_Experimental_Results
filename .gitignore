@@ -1,0 +1,9 @@
+*output*
+*.mat
+*.pdf
+*.txt
+*.jpg
+*.png
+.venv
+.idea
+*__pycache__*
